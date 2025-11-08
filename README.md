@@ -1,5 +1,4 @@
 # Bash_Scripting_Suite_For_System_Maintenance
-# Bash System Maintenance Suite
 
 ## Overview
 
@@ -117,8 +116,3 @@ Follow on-screen prompts for each task.
 * Confirm prompts before backup or cleanup actions
 * Designed for safe and repeatable system maintenance
 
----
-
-## Author
-
-Satya Narayan Jena
