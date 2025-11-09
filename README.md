@@ -4,7 +4,7 @@
 
 The **Bash System Maintenance Suite** is a menu-driven automation project for Linux system maintenance. It simplifies routine tasks like automated backups, system updates, cleanup, and log monitoring, providing a user-friendly interface for administrators.
 
----
+--- 
 
 ## Features
 
